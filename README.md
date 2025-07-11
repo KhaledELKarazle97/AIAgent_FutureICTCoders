@@ -1,7 +1,7 @@
 # 🧠 AI Agent for Malaysian School Kids 🇲🇾
 
 Welcome to the **Future ICT Coders** AI Agent!  
-This is a simple, smart assistant designed especially for **Malaysian school children** to explore fun and helpful AI tools — safely and interactively.
+This is a simple, smart assistant designed especially for **Malaysian school children** to explore fun and helpful AI tools, safely and interactively.
 
 ---
 
